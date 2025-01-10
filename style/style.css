@@ -84,6 +84,51 @@ nav li a{
     font-weight: 600;
     margin-top: 24px;
 }
+
+/* banner card styles */
+.card-container{
+    height: 324px;
+    margin-top: 80px;
+}
+.card-content{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    align-items: center;
+}
+.card-design{
+    width:302px;
+    height:244px;
+    border-radius: 16px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding:24px 24px;
+}
+.card-heading{
+    font-size: 40px;
+    font-weight: bold;
+    line-height: auto;
+    margin-bottom: 32px;
+}
+.card-icon{
+    width:64px;
+    height: 64px;
+    margin-bottom: 24px;
+}
+.card-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: #0E0E0E;
+    margin-bottom: 12px;
+}
+.card-desc{
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 0%;
+    margin-bottom: 24px;
+}
+
+/* the vision of future */
+
 /* main section ends here */
 
   
