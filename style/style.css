@@ -1,0 +1,44 @@
+/* Universal Selector */
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Sheared styles */
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+/* header section start here */
+nav{
+    display: flex;
+    padding:24px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 31px 160px;
+    
+   
+}
+.section-heading{
+    font-size: 32px;
+    font-weight: bold;
+}
+nav ul li{
+    list-style: none;
+    
+}
+nav li a{
+    text-decoration: none;
+    font-size: 18px;
+    border: 3px solid #006A50;
+    padding:20px 35px;
+    border-radius: 8px;
+    color:#006A50;
+    font-weight: 600;
+}
+/* header section end here */
+
+  
