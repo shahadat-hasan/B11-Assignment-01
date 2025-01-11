@@ -130,6 +130,7 @@ nav li a:hover{
 .card-container{
     height: 324px;
     margin-top: 80px;
+
 }
 .card-content{
     display: flex;
@@ -270,7 +271,7 @@ nav li a:hover{
 
 /* table styles */
 .table{
-    height: 480px;
+    height: 410px;
     margin-top: 80px;
     
 }
