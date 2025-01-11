@@ -141,7 +141,7 @@ nav li a:hover{
     width:302px;
     height:244px;
     border-radius: 16px;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border: 1px solid rgba(128, 128, 128, 0.445);
     padding:24px 24px;
 }
 .card-heading{
@@ -272,15 +272,16 @@ nav li a:hover{
 .table{
     height: 480px;
     margin-top: 80px;
+    
 }
 .table-heading{
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 24px;
+    
 }
 .table-section{
-    height: 409px;
-    padding:32px;
+    padding: 40px;
     background-color: #FFFFFF;
     border-radius: 16px;
 }
@@ -288,13 +289,13 @@ table{
  border-collapse: collapse;
  width: 100%;
  height: 100%;
- margin: 20px;
  font-size: 16px;
+ padding: 45px;
  
 }
 th,td{
     border: 1px solid;
-    padding: 24px 24px;
+    padding: 30px 30px;
 }
 th{
     background-color: #C6E4D6;
