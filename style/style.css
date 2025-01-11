@@ -72,6 +72,10 @@ nav li a{
     border-radius: 8px;
     color:#006A50;
     font-weight: 600;
+    transition: all 0.5s;
+}
+nav li a:hover{
+    background-color: rgb(228, 95, 6);
 }
 /* header section end here */
 
@@ -114,6 +118,11 @@ nav li a{
     color: #fff;
     font-weight: 600;
     margin-top: 24px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+.button:hover{
+    background-color: rgb(228, 95, 6);
 }
 
 /* banner card styles */
@@ -220,8 +229,14 @@ nav li a{
     border: none;
     color:#fff;
     font-weight: 500;
+    cursor: pointer;
+    transition: all 0.5s;
 
 }
+.btn:hover{
+    background-color: rgb(228, 95, 6);
+}
+
 
 /* chifeminister details styles */
 #section-chife{
