@@ -90,12 +90,13 @@ nav li a:hover{
     align-items: center;
     height: 560px;
     border-radius: 16px;
-    padding: 100px 20px;
+    /* padding: 100px 20px; */
 }
 .left{
-    margin-left: 59px;
-    margin-top: 117px;
-    margin-bottom: 117px;
+   margin: 117px 59px;
+}
+.right{
+    margin: 80px 59px;
 }
 .banner-heading{
     font-size: 24px;
